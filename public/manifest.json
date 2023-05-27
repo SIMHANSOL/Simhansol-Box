@@ -1,0 +1,20 @@
+{
+  "name": "Sim-Hansol BOX",
+  "short_name": "SHS BOX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/meta/box64x64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/images/meta/box128x128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/meta/box512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'pretendard';
+  src: url('/fonts/pretendard-variable.woff2') format('woff2-variations');
+}
+
+@font-face {
+  font-family: 'TiquiTaca';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/TiquiTaca-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

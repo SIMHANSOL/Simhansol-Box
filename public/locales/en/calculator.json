@@ -1,0 +1,22 @@
+{
+  "name": "Hansol Calculator",
+  "base": {
+    "history": "no history."
+  },
+  "extension": {
+    "none": { "name": "default" },
+    "average": {
+      "name": "average",
+      "%": "What percentage of the current value is X",
+      "%?": "What is the X% of the current value",
+      "%+": "increase X% from current value",
+      "%-": "Decrease X% from current value"
+    }
+  },
+  "label": {
+    "history": "toggle history",
+    "extension": "toggle extension",
+    "remove": "remove value",
+    "delete": "delete value"
+  }
+}

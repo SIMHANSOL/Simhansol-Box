@@ -1,0 +1,10 @@
+{
+  "name": "컬러비전",
+  "description": "같은 색상을 찾아서 점수를 획득하고 분별력을 키우세요.",
+  "game-start": "게임 시작하기",
+  "level": "레벨",
+  "score": "점수",
+  "prev-level": "지난 게임에서의 레벨",
+  "prev-score": "지난 게임에서의 점수",
+  "where-is-this-color": "이 색상이 어디에 있나요?"
+}

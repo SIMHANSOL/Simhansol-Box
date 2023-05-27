@@ -1,0 +1,10 @@
+{
+  "name": "Color Vision",
+  "description": "Find the same color, earn points, and develop your sense.",
+  "game-start": "Game Start",
+  "level": "Level",
+  "score": "Score",
+  "prev-level": "Level from last game",
+  "prev-score": "Score from the last game",
+  "where-is-this-color": "Where is this color?"
+}
