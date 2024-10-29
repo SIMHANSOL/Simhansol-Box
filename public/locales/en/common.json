@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Simhansol Box"
+  },
+
+  "navigation": {
+    "tab-1": {
+      "headline": "Profile",
+      "item-1": "Home",
+      "item-2": "News",
+      "item-3": "Game",
+      "item-4": "Studio"
+    },
+    "tab-2": {
+      "headline": "Portfolio",
+      "item-1": "Ksca",
+      "item-2": "Peopleyoutube",
+      "item-3": "Nudgestory",
+      "item-4": ""
+    },
+    "tab-3": {
+      "headline": "Personal Project",
+      "item-1": "HS Calculator",
+      "item-2": "Colorvision",
+      "item-3": "",
+      "item-4": ""
+    }
+  },
+
+  "open": "open",
+  "close": "close",
+  "remove": "remove",
+  "more": "more",
+  "link": "link",
+  "menu": "menu"
+}

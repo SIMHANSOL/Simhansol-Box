@@ -1,0 +1,53 @@
+{
+  "introduce": {
+    "name": "Sim Hansol",
+    "sub-name": "심한솔",
+    "age": "28 years old",
+    "address": "Jungnang-gu, Seoul",
+
+    "career": {
+      "name": "Development Field",
+      "list": {
+        "frontend": {
+          "name": "Web Developer"
+        }
+      }
+    },
+
+    "intro": {
+      "name": "Introduce",
+      "description": "Hello, I'm web developer Sim Hansol."
+    }
+  },
+
+  "portfolio": {
+    "name": "Portfolio",
+    "tab-1": {
+      "name": "KSCA",
+      "accessDate": "21. 4",
+      "description": "Based on the spirit of Noblesse Oblige, it is a non-profit organization created to realize a society where individuals and companies live together by easing polarization through various social contribution activities."
+    },
+    "tab-2": {
+      "name": "Peopleyoutube",
+      "accessDate": "20. 9",
+      "description": "Peopleyoutube stands for Open People Creator Academy and is a professional creator & mobile show host training agency."
+    },
+    "tab-3": {
+      "name": "Nudgestory",
+      "accessDate": "20. 8",
+      "description": "Nudge Story is a PR company that creates a NUDGE effect through stories. Through Nudge's own PR, we are inducing smooth intervention and delivering better service to people."
+    }
+  },
+
+  "project": {
+    "name": "Personal Project",
+    "calculator": {
+      "name": "Hansol Calculator",
+      "description": "It is a calculator made with the motif of a window calculator. I implemented the basic function of the calculator and implemented the basic design of the calculator."
+    },
+    "color-vision": {
+      "name": "Colorvision",
+      "description": "Color vision is a game to remember and match the colors presented. It's designed to increase color discrimination."
+    }
+  }
+}
